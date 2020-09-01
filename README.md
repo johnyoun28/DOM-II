@@ -5,6 +5,7 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 ## Instructions
 
 initial commit
+second commit
 
 ### Task 1: Project Set Up
 
