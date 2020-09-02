@@ -52,9 +52,10 @@ window.addEventListener("scroll", () => {
 });
 
 //9
-const navClick = document.querySelector("header");
+const navClick = document.querySelector(".content-section img");
 navClick.addEventListener("click", () => {
-  navClick.style.color = "green";
+  navClick.src =
+    "https://i.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI";
 });
 
 //10
